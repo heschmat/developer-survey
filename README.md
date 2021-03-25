@@ -5,6 +5,8 @@ This is an analysis of the 2020 Stackoverflow developer survey. The survey inclu
 
 Furthermore, I'll see into the factors that could make the job of a developer attractive, or less attractive. Most importantly, I'll investigate what programming languages and technologies less experienced developers or individuals interested in breaking into the field should focus on. I'll concolude the analysis by giving two pro-tips. 
 
+For a short summary of the found results please refer to (my medium blog)[https://hesch-mat.medium.com/halt-and-join-developers-community-9619e3cd3a62]. 
+
 
 ## Libraries
 - pandas
