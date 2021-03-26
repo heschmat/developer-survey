@@ -5,10 +5,10 @@ This is an analysis of the 2020 Stackoverflow developer survey. The survey inclu
 
 Furthermore, I'll see into the factors that could make the job of a developer attractive, or less attractive. Most importantly, I'll investigate what programming languages and technologies less experienced developers or individuals interested in breaking into the field should focus on. I'll concolude the analysis by giving two pro-tips. 
 
-For a short summary of the found results please refer to [my medium blog][https://hesch-mat.medium.com/halt-and-join-developers-community-9619e3cd3a62]. 
+For a short summary of the found results please refer to [my medium blog](https://hesch-mat.medium.com/halt-and-join-developers-community-9619e3cd3a62). 
 
 ## Understanding Data
-This data set is based on a survey of 65,000 professional and aspiring software developers from 186 countries around the world, conducted by the [Stackoverlfow][https://stackoverflow.blog/2020/07/27/public-data-release-of-stack-overflows-2020-developer-survey/]. Note: the survey was fielded in February 2020, so it does not reflect the aftermath of COVID-19.   
+This data set is based on a survey of 65,000 professional and aspiring software developers from 186 countries around the world, conducted by the [Stackoverlfow](https://stackoverflow.blog/2020/07/27/public-data-release-of-stack-overflows-2020-developer-survey/). Note: the survey was fielded in February 2020, so it does not reflect the aftermath of COVID-19.   
 
 ## Data Preparation
 Mostly the data is clean. Some data cleaning is done because of the nature of the question that accepted multiple answers. One shortcoming of the data is that there are a lot of non-responders, sometimes as far as 1/3.    
@@ -34,4 +34,4 @@ However, since the purpose of the analysis is to conduct exploration no action i
 
 
 ## Acknowledgment
-Kudos to Stackoverflow for [the survey data][https://stackoverflow.blog/2020/07/27/public-data-release-of-stack-overflows-2020-developer-survey/].
+Kudos to Stackoverflow for [the survey data](https://stackoverflow.blog/2020/07/27/public-data-release-of-stack-overflows-2020-developer-survey/).
